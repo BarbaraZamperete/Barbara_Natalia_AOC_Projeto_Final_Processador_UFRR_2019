@@ -1,0 +1,21 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'RegWrite'
+Slack : -0.724
+TNS   : -71.327
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'RegWrite'
+Slack : -0.724
+TNS   : -71.208
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'RegWrite'
+Slack : -0.086
+TNS   : -5.342
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'RegWrite'
+Slack : -0.086
+TNS   : -5.337
+
+------------------------------------------------------------
